@@ -18,8 +18,8 @@ import heapq
 START_CITY = "Arad"
 GOAL_CITY = "Bucharest"
 HEURISTIC_TARGET = "Bucharest"
-RUN_P1 = ("bfs", "ucs")          # two uninformed algorithms
-INFORMED_ALGO = "astar"            # one informed algorithm for P2
+RUN_P1 = ("bfs", "ucs")          # p1 -two uninformed algorithms
+INFORMED_ALGO = "astar"            # p2 - one informed algorithm
 
 # -----------------------------
 # Problem & Node classes

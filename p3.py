@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-P3 — Local Search (AIMA p. ~120): N‑Queens via Hill‑Climbing cu Random Restarts
+P3 — Local Search (AIMA p. ~120): N‑Queens - N regine astfel incat sa nu se atace
 
 Algoritm de local search: Steepest‑Ascent Hill‑Climbing cu opțiuni de Sideways Moves și Random Restarts
 
